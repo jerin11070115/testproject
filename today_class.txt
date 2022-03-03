@@ -1,0 +1,7 @@
+1. website link check > web link validator
+2. check cookie> Edit this cookie extension
+3. test html & css> html and css validator
+
+compability testing
+browserstack> browser testing
+jmeter testing for login hit
